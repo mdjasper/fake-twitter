@@ -1,5 +1,5 @@
 # Fake Twitter
-creates a docker image that will fake the twitter endpoint https://api.twitter.com/1.1/direct_messages/new.json
+creates a docker image that will fake the twitter endpoint https://api.twitter.com/1.1/direct_messages/events/new.json
 
 
 # Running
